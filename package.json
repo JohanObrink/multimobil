@@ -1,6 +1,6 @@
 {
   "name": "multimobil",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use the multimobil SMS Gateway with node",
   "main": "lib/multimobil",
   "scripts": {
